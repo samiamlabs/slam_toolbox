@@ -3242,6 +3242,7 @@ ScanSolver * Mapper::getScanSolver()
 
 MapperGraph * Mapper::GetGraph() const
 {
+  int hello = 1;
   return m_pGraph;
 }
 
